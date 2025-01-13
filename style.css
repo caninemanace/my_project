@@ -1,0 +1,15 @@
+.header {
+    align-items: center;
+    color: black;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(37, 34, 104);
+    color: brown;
+}
+
+.power {
+    text-align: center;
+    color: chartreuse;
+}
